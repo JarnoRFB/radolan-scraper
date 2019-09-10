@@ -1,0 +1,9 @@
+aiohttp~=3.5.4
+cchardet~=2.1.4
+aiodns~=2.0.0
+luigi[toml]~=2.8
+h5netcdf==0.7.4
+cf-units==2.1.3
+PyYAML==5.1.2
+python-dotenv~=0.10.3
+pytest~=4.4.0
